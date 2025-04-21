@@ -1,0 +1,173 @@
+{
+    "Week": {
+        "Monday": {
+            "Exercises": {
+                "1": {
+                    "Exercise": "Pushups",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "2": {
+                    "Exercise": "Squats",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "3": {
+                    "Exercise": "Lunges",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "4": {
+                    "Exercise": "Plank",
+                    "Sets": 3,
+                    "Reps": 10
+                }
+            }
+            
+        },
+        "Tuesday": {
+            "Exercises": {
+                "1": {
+                    "Exercise": "Pushups",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "2": {
+                    "Exercise": "Squats",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "3": {
+                    "Exercise": "Lunges",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "4": {
+                    "Exercise": "Plank",
+                    "Sets": 3,
+                    "Reps": 10
+                }                
+            }
+        },
+        "Wednesday": {
+            "Exercises": {
+                "1": {
+                    "Exercise": "Pushups",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "2": {
+                    "Exercise": "Squats",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "3": {
+                    "Exercise": "Lunges",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "4": {
+                    "Exercise": "Plank",
+                    "Sets": 3,
+                    "Reps": 10
+                }                
+            }
+        },
+        "Thursday": {
+            "Exercises": {
+                "1": {
+                    "Exercise": "Pushups",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "2": {
+                    "Exercise": "Squats",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "3": {
+                    "Exercise": "Lunges",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "4": {
+                    "Exercise": "Plank",
+                    "Sets": 3,
+                    "Reps": 10
+                }                
+            }
+        },
+        "Friday": {
+            "Exercises": {
+                "1": {
+                    "Exercise": "Pushups",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "2": {
+                    "Exercise": "Squats",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "3": {
+                    "Exercise": "Lunges",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "4": {
+                    "Exercise": "Plank",
+                    "Sets": 3,
+                    "Reps": 10
+                }                
+            }
+        },
+        "Saturday": {
+            "Exercises": {
+                "1": {
+                    "Exercise": "Pushups",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "2": {
+                    "Exercise": "Squats",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "3": {
+                    "Exercise": "Lunges",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "4": {
+                    "Exercise": "Plank",
+                    "Sets": 3,
+                    "Reps": 10
+                }                
+            }
+        },
+        "Sunday": {
+            "Exercises": {
+                "1": {
+                    "Exercise": "Pushups",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "2": {
+                    "Exercise": "Squats",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "3": {
+                    "Exercise": "Lunges",
+                    "Sets": 3,
+                    "Reps": 10
+                },
+                "4": {
+                    "Exercise": "Plank",
+                    "Sets": 3,
+                    "Reps": 10
+                }                
+            }
+        }
+}
+}
